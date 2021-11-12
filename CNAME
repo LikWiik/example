@@ -1,1 +1,5 @@
-likwiik.com
+dig WWW.LIKWIIK.COM +nostats +nocomments +nocmd
+    > ;WWW.LIKWIIK.COM.                     IN      A
+    > WWW.LIKWIIK.COM.              3592    IN      CNAME   LIKWIIK.github.io.
+    > LIKWIIK.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
